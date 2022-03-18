@@ -3,7 +3,7 @@
 <p align=center><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=35&color=2CDD00&background=FF35CF00&center=true&vCenter=true&width=220&height=40&lines=Enzo+WAIBEL"></p>
 
 <p align=center>  <strong>
-<img src='https://komarev.com/ghpvc/?username=kdridi&color=blueviolet&style=plastic'>
+<img src='https://komarev.com/ghpvc/?username=EnzoWAIBEL&color=2CDD00&style=plastic'>
 </strong> </p>
 
 <p align=center><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=35&color=2CDD00&background=FF35CF00&center=true&vCenter=true&width=405&height=40&lines=Formation+Web%40cad%C3%A9mie" /></p>
