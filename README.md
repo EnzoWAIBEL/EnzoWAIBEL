@@ -22,5 +22,5 @@
   <img alt='Steam' src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></p>
 
 <h2>
-  <img witdh="1200" height="600" src="./images/kyubey.gif"/>
+  <img witdh="600" height="300" src="./images/kyubey.gif"/>
 </h2>
