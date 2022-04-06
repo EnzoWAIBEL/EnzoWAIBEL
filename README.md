@@ -21,6 +21,6 @@
   <img alt='RiotGames' src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"/>
   <img alt='Steam' src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></p>
 
-<h2 align='center' style='border: 2px solid #fff;'>
+<h2 align='center'>
   <img witdh="500" height="250" src="./images/kyubey.gif"/>
 </h2>
