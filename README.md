@@ -23,9 +23,4 @@
 
 <h2>
   <img height="40" src="./images/kyubey.gif"/>
-  <img height="20" src="./images/soulgem-sayaka.gif"/>
-  <img height="20" src="./images/soulgem-homura.gif"/>
-  <img height="20" src="./images/soulgem-madoka.gif"/>
-  <img height="20" src="./images/soulgem-sayaka.gif"/>
-  <img height="20" src="./images/soulgem-kyoko.gif"/>
 </h2>
