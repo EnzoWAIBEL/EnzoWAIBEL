@@ -1,4 +1,4 @@
-<p align=center>  <strong> >_ Hello ! Welcome to me GitHub page !</strong>  </p>
+<p align=center>  <strong> >_ Hello ! Welcome to my GitHub page !</strong>  </p>
 
 <p align=center><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=35&color=2CDD00&background=FF35CF00&center=true&vCenter=true&width=220&height=40&lines=Enzo+WAIBEL"></p>
 
