@@ -20,3 +20,12 @@
   <br/>
   <img alt='RiotGames' src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white"/>
   <img alt='Steam' src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" /></p>
+
+<h2>
+  <img height="40" src="./images/kyubey.gif"/>
+  <img height="20" src="./images/soulgem-sayaka.gif"/>
+  <img height="20" src="./images/soulgem-homura.gif"/>
+  <img height="20" src="./images/soulgem-madoka.gif"/>
+  <img height="20" src="./images/soulgem-sayaka.gif"/>
+  <img height="20" src="./images/soulgem-kyoko.gif"/>
+</h2>
