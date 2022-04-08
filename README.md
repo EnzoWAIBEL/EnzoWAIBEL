@@ -1,11 +1,11 @@
 <p align=center>  <strong> >_ Hello ! Welcome to my GitHub page !</strong>  </p>
 
-<p align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Moonrocks&duration=5200&color=A85BC8FF&background=FFFFFF00&width=540&height=40&size=30&lines=Welcome+to+Enzo+Waibel's+profile+!;Formation+Web%40cad%C3%A9mie+Epitech+!" /></p>
+<p align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Moonrocks&duration=6000&color=A85BC8FF&background=FFFFFF00&width=540&height=50&size=30&lines=Welcome+to+Enzo+Waibel's+profile+!;Formation+Web%40cad%C3%A9mie+Epitech+!" /></p>
 
 <p align=center><img width="60%" src="https://github-readme-stats.vercel.app/api?username=EnzoWAIBEL&show_icons=true&theme=tokyonight"></p>
 
 <p align=center>  <strong>
-<img src='https://komarev.com/ghpvc/?username=EnzoWAIBEL&color=2CDD00&style=plastic'>
+<img src='https://komarev.com/ghpvc/?username=EnzoWAIBEL&color=A85BC8&style=plastic'>
 </strong> </p>
 
 <p align='center'>
