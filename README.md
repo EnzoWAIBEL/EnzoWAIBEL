@@ -1,10 +1,8 @@
 <p align=center>  <strong> >_ Hello ! Welcome to my GitHub page !</strong>  </p>
 
-<p align=center><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=35&color=2CDD00&background=FF35CF00&center=true&vCenter=true&width=220&height=40&lines=Enzo+WAIBEL"></p>
+<p align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Moonrocks&duration=5200&color=A85BC8FF&background=FFFFFF00&width=540&height=40&size=30&lines=Welcome+to+Enzo+Waibel's+profile+!;Formation+Web%40cad%C3%A9mie+Epitech+!" /></p>
 
-<p align=center><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&size=35&color=2CDD00&background=FF35CF00&center=true&vCenter=true&width=405&height=40&lines=Formation+Web%40cad%C3%A9mie" /></p>
-
-<p align=center><img src="https://github-readme-streak-stats.herokuapp.com?user=EnzoWAIBEL&theme=github-dark&date_format=j%20M%5B%20Y%5D&border=2CDD00&ring=2CDD00&fire=FF9821&dates=EBFF3D" /></p>
+<p align=center><img width="60%" src="https://github-readme-stats.vercel.app/api?username=EnzoWAIBEL&show_icons=true&theme=tokyonight"></p>
 
 <p align=center>  <strong>
 <img src='https://komarev.com/ghpvc/?username=EnzoWAIBEL&color=2CDD00&style=plastic'>
