@@ -1,6 +1,6 @@
 <p align=center>  <strong> >_ Hello ! Welcome to my GitHub page !</strong>  </p>
 
-<p align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Moonrocks&duration=6000&color=A85BC8FF&background=FFFFFF00&width=540&height=50&size=30&lines=Welcome+to+Enzo+Waibel's+profile+!;Formation+Fullstack+3WA+!" /></p>
+<p align=center><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Moonrocks&duration=6000&color=A85BC8FF&background=FFFFFF00&width=540&height=50&size=30&lines=Welcome+to+Enzo+Waibel's+profile+!;Formation+Fullstack+3W+Academy+!" /></p>
 
 <p align=center><img width="60%" src="https://github-readme-stats.vercel.app/api?username=EnzoWAIBEL&show_icons=true&theme=tokyonight"></p>
 
